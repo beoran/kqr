@@ -1,1 +1,476 @@
-== Q
+= KQ Renaissance Characters
+:author:Beoran
+
+
+== Player characters
+
+=== Sensar
+
+Sensar is a 19 year old blonde man who's strong point is his brawn rather than 
+his brains. From his early teenage years on he had no more family and grew up
+living alone in a small house. this unfortunately meant that while he can read, 
+he did not get much in the way of an education. And while he is quite friendly
+when you rub him the right way, he is also rather unrefined and impatient. 
+When provoked he shows his worst side, and has great difficulty in managing 
+his anger and rage.
+
+Because of his physical strength, the people who know him like him as an 
+unskilled worker or as a monster hunter. But they wouldn't want to ask him for 
+any intellectual job more complicated than multiplying two numbers! No one 
+in his village is able to beat him in a fist fight though, so he does have the feeling that he's the best fighter around, if not in all of Anistal. He tends
+to be a bit cocky, but at the same time he lacks knowledge of the world.
+
+Since he isn' t very wealthy, he loves the idea of fame and fortune, but tends
+to spend any money he gets unwisely. For example, he has 2 chimneys and 6 beds because he want to have a big family later, but the house is way too small
+for such a family, never mind that he doesn't even have a girlfriend!
+
+Primary ability - Rage - this gives Sensar a damage/hit% boost, but costs about 
+10% of his hp. As well, if the original target of Sensar's Rage perishes, then
+he also attacks the next person as well. Rage can be used as long as Sensar has
+enough hp.
+
+Secondary ability - increased chance to hit critically.
+
+Motivation: Fame and fortune.
+
+Growth: During the story Sensar can learn that the world is a big place indeed,
+that there are many things to learn, that it's great to be strong, but strength
+needs wisdom to be applied properly, and to manage his anger. Or not. :p
+
+
+=== Casandra
+
+Casandra is old huntress of about 24 years old. She was adopted by a family of
+hunters when she was only 3 or 4 years old. Her original family seems to have
+been killed in the war 20 years ago. Since the war, many more monsters are on a
+rampage, so business has been steady, but the job is not without dangers.
+
+
+Nella is her older adoptive sister. Of the two sisters, Nella is the one who has
+the most physical prowess, while Casandra hunts her prey using magic. Casandra
+has been fascinated by magic, especially fire magic, since she was a child. She 
+turned out to be a natural talent, and buy the time she was 12, she was 
+scorching monsters here and there. Physically she is not so strong because she 
+is hampered by her bad lungs which have suffered smoke damage, most likely
+when she was a child, during the war.
+
+Casandra and Nella have worked for officials from several cities and villages.
+But normally those officials request that they work under a non disclosure agreement. The officials like to take credit for themselves for getting rid
+of the monsters but in reality they pay hunters to do the dirty jobs.
+
+Because of her natural talent with magic, but also because of the lack of
+recognition for her and her family, Casandra has grown yup slightly arrogant,
+stuck up, hung up on details, and unpleasant to others. Nevertheless, when you
+get on her good side, she will show that she is a clever person without bad
+intentions, who wants to enjoy life. A person who is in essence exasperated at
+the idiocy of some of her fellow humans, but not above admitting that she is not
+perfect herself. A person who expects more from others, but who is also always looking to better herself.
+
+Motivation: Get the staff for herself, use if for her own magic power and maybe
+become queen of the hill in a small village here or there. Surely she'd make a
+better mayor than the idiots she's had to work for?
+
+Primary ability - Boost - this ability increases Casandra's Aura and Spirit by
+50% to cast a spell... however, the spells costs 150% the normal MP amount.
+Not all spells benefit from boosted Aura/Spirit. Boost can be used once per
+battle.
+
+Secondary ability - Casandra is 80% resistant to paralysis and sleep.
+
+=== Ayla
+
+Ayla is a young lady of about 20 years old. Though she is well-to-do
+she is a thief for the thrill of stealing. She's a fun loving girl, a bit
+tomboyish, with quick fingers and a charming personality. Sometimes she
+also doubles as an entertainer or a prestidigitator. She doesn't get found out
+stealing very often, but likes to hop from town to town since she gets bored
+soon. she has a sharp attention to her surroundings. however on her bad side, you'll see that sometimes she can be a bit superficial and impatient.
+
+Motivation: Ayla wants to find the staff, get money for it from Nostik,
+steal it from him, and then sell it for some more cold, hard cash. And maybe
+steal it again. As long as she has fun with the ride.
+
+Primary ability - Steal - Ayla can steal items from her enemies... as long as there is something to steal. Steal can be used repeatedly.
+
+Secondary ability - If alone, Ayla can only be surprised by the enemy roughly 1% 
+of the time, and she has a 33% chance to surprise them. If with a partner, the
+heroes are only surprised 5% of the time, and have a 20% chance of surprising 
+the enemies. The normal rates are 10% for both being surprised and causing
+surprise.
+
+=== Temmin
+
+Tenmin is a young man of about 27 years old. He is a knight in service of his 
+master, who serves the King of XXX. Tenmin is a professional 
+knight and warrior and tends to be on the serious side. He is loyal to his 
+master, but when he fights in a team, he is always looking out for his comrades.
+If you catch him in a good moment you'll see he does have a good sense of humor
+and likes to laugh and joke once in a while.
+
+Motivation: Tenmin wants to fulfill his mission to his master. He will make sure
+that the staff is safe to give to Nostik, and that Nostik is not going to use 
+the staff for a bad reason.
+
+Primary ability - Cover - using this Temmin does the same as if he were using "Defend". However, Temmin also blocks any attacks made against his partner. Cover can be used repeatedly as long as Temmin has a partner.
+
+Secondary ability - Temmin suffers no spirit penalties for any equipment that he uses.
+
+=== Noslom
+
+Noslom is a man of about 40 years old. He is a sage with great knowledge 
+of history and magic. But he is also skilled in combat. 
+
+About 20 years ago, when he was only a fledgling sage, he and his then time 
+master Barl encountered Binderak on rthe run from Malkaron. Binderak tried to 
+use the Staff when Barl recognised it and demanded that he yield it. But 
+the Staff went haywire and a gang of uncontrollable monsters appeared. 
+Binderak ran for it and Barl held the monsters at bay allowing Noslom to 
+escape.
+
+Noslom regrets loosing his old master and has been looking for him ever since.
+although everyone says that Barl is dead, Noslom believes Barl is still alive
+since no trace of him was found.
+
+Goals: To find out if the staff is the same staff as the one of 20 years ago, 
+and hopefully find out about the whereabouts of Barl.
+
+Primary ability - Sense - Noslom can view some attributes of the enemies that he is fighting. He can see hp, mp and elemental resistance using this ability. 
+Sense can be used repeatedly.
+
+Secondary ability - Noslom's rate of MP consumption is 60% that of everyone 
+else.
+
+=== Ajathar
+
+Ajtahar is a young man of 23 years old. He is a novice temple monk of the 
+"order". The "order" is a religious school where monks are raised, 
+taught, and trained in the ways of defending justice and righteousness.
+Ajathar was an ace student and now he has taken up the vows of a monk himself.
+While he is very bright, he is a bit of a book worm and not very interested 
+in the outside world.
+
+Ajathar's is somewhat naive and "green", but he's also very intelligent. He 
+sometimes has trouble dealing with dealing with some of the realities he
+encounters  but he always works to do what's right and defend people. 
+
+Ajtahar's superior, Cid, sends him out on a mission to investigate the Staff,
+ince cid feels that Ajtahar needs to get out of the books and face reality to 
+truly learn what life is like.
+
+Primary motivation: Ajathar is following his mentor's orders, but he also 
+realizes that going out in the world is a great occasion for him to learn 
+something new. 
+
+Primary ability - Prayer - this has one of two effects. If any of the enemies 
+are undead, Prayer will attempt to destroy them. If there are no undead present,
+Prayer will cure the party members a bit.
+
+Secondary ability - Any weapon used by Ajathar gains the elemental power of
+"White" (unless it already has an elemental type).
+
+
+=== Corin
+
+Corin is a young man of 24 years old. He is a Rune Knight. The Rune Knights 
+are a secret organization that has as goal to protect and help the people of 
+Anistal.
+
+Only they know the secret of engraving the power of the elements into weapons.
+The Rune knights wield this power to fight evil, or at least what they see
+as such, all whilst staying in the shadows.
+
+Since corin always has to get in action whenever the peopleget into problems, he 
+has the habit of seeing the worst situations, and people at their worst. This
+has made him a bit of a pessimist and he's not above cracking a cynical joke 
+once or twice. But if ou get to know him and get close to him, you'll see he's 
+a warm hearted man underneath his prickly shell.
+
+Motivation: Corin is a classic hero who believes in fighting evil. He has his 
+doubts about Nostik since unlike most the RuneKnights know that he might have 
+been involved with Malkaron.
+
+SpecialSkill: - Infuse - this allows Corin to cast an elemental type spell on 
+himself. The different spells give Corin resistance (and weakness) to certain 
+elements and boost other combat stats as well. Infuse can be used once per 
+battle.
+
+Secondary ability - Corin's resistance versus Earth, Fire, Air, and Water rises
+with his level.
+
+=== Sarina
+
+Sarina is a young woman of about 26 years old. She is a lumberjack by
+profession. She comes form a large but relatively poor family, and is the
+youngest child. As such she had to fight her bothers often and a result
+she became a physically strong woman. During her work as a lumberjack
+she sometimes encounters monsters, but she's learned to deal with them swiftly 
+in order to keep on working efficiently.
+
+Sarina also has a feminine and caring side. Even though her older brothers
+should help her parents, she has allowed them to go out in the world to find
+fortune. She has taken responsibility of taken care of her parents in stead.
+Sarina was able to save up some money to allow her parents to live off for a 
+few years. But it's not going to be enough when they get older and unable
+to work themselves. 
+
+Sarina is a hard worker and helpful to others to a fault. She dreams of 
+finding a good husband and settling down, but first she want to be sure her 
+parents will be able to retire comfortably. If anything bad could be said about
+her then it's that she should stand up for herself more and not let other 
+people's desires overrule her own so much. For the rest she has a lovely 
+disposition and a kind, loving heart.
+
+Motivation: Sarina hopes to earn a comfortable pension for her parents, so she 
+can finally pursue her own dreams.
+
+Primary ability - Sweep - attack all targets at once. Critical hits are possible
+but the screen doesn't flash. The attack is not as powerful as a single attack by
+Sarina. Sweep can be used as long as there is more than one target to attack. As
+well, Sweep is only possible with bladed weapons (axe, sword, and dagger).
+
+Secondary ability - I've been wondering what to put for this, but for now I have
+given her some resistance to fire and lightning.
+
+
+== Non-player characters
+
+=== Nostik
+
+Nostik pretends to be a cryptic old man hiding out on a smaller island of
+the Anistal archipelago. However, he is the current Archwizard, responsible
+for safekeeping the first half of the Staff of Xenarum. He is now hiding
+out for fear that Malkaron may find him and kill him out of revenge. However,
+his goal is to obtain the Staff, ostensibly to put it into safe keeping again.
+
+He claims that Malkaron forced him to reveal the location of the first part of
+the staff and then enslaved him using it's power. He was finally able to escape
+Malkaron's grasp and even tried to steal the Staff from him. However, Binderak
+apparently had the same plan and stole the staff first, before Nostik could get
+it.
+
+Nostik used his scrying skills to find people who could be useful in helping 
+him find the Staff of Xenarum. He used magical means to transfer notes to
+summon those people he deemed useful to his goals.
+
+.Hidden agenda
+Nostik was not really enslaved by Malkaron. Rather, he joined Malkaron
+willingly as one of his tree lieutenants because he felt sympathy for
+Malkaron's goals and Malkaron.
+
+When he felt Malkaron was going out of line with the staff, he decided to steal it, however, in the deepest of his heart, it was the desire for power that 
+drove him. He wanted to become the leader of the hordes and conquer 
+However, he is still fearful of Malkaron's revenge at his betrayal, that is why
+he is hiding away.
+
+He wants the adventurers he summoned to collect the whole staff for him so he 
+can use it to become the new ruler of Anistal, "for the sake of the people", 
+or so he deludes himself.
+
+=== Malkaron
+
+Malkaron is the "Dark Lord" who had somehow obtained the first half of the
+Staff of Xenarium, and used it to summon and control hordes of enemies 20 
+years ago. Went on a rampage though Anistal until the Staff was stolen
+by Binderak. Then Malkaron disappeared and wasn't heard of again. It was even 
+rumored that one of the more powerful summoned monsters consumed Malkaron.
+
+When Malkaron was still seen, he would wear a jet black armor that covered all
+of his face and body. However, Malkaron's voice was said to be surprisingly
+clear and sharp for such an impressive, commanding person.
+
+.Hidden agenda
+In reality Malkaron is still alive and wants to find the whole of the staff 
+back. Malkaron wants to use the staff to create an orderly society ruled by
+fear. In this way, Malkaron wants to honor the oath of Mallow. Malkaron also
+wants vengeance against Nostik for his betrayal, although that is a secondary
+concern.
+
+=== Binderak
+
+Binderak was one of the three lieutenants of Malkaron. He stole the half of
+Staff of Xenarum from Malkaron 19 years ago before the Battle of Cooked hill,
+in the hope it would make him all powerful. However, since he was a pure
+warrior who knew little about magic, he was unable to use the staff at all.
+So he ran away and hid in the Kingdom Of Esteria.
+
+He has trying to figure out ever since how to use the staff. But he has difficulties understanding magic, and he is reluctant to aks anyone for help,
+so his investigations of the Staff have been largely unfruitful. But the staff
+has slowed down his aging, and made him much more powerful physically.
+Now, even Malkaron would not dare attack him directly.
+
+=== Chayin
+
+Chayin is the current Archwizardress, and guards the second half of the Staff
+of Xenarum. She is currently keeping a low profile for fear that Malkaron
+would seek out the half of the Staff left in her care.
+
+=== Nella 
+
+Nella is a professional hunter. Nella hails from a family of professional 
+hunters, who clean out monster nests when they are dangerous or bothersome to humans, or escort officials through dangerous areas. Since the war 20 years ago, many more monsters are on a rampage, so business has been steady, but the job is not without dangers.
+
+Nella is Casandra's older sister. She is 37 years old. About 21 years ago,
+Nella found Casandra when she was out hunting.  Cassandra was but a young child
+lying on the scene of a battle in a conflict of those days, near a burnt cart.
+At first Nella thought it was hopeless, but then she noticed that Casandra still 
+breathed. Nella took care of Casandra's wounds as well as she could and 
+carefully carried her home. Nella's family has since taken care of Casandra 
+as their own and adopted her as their daughter.
+
+Of the two sisters, Nella is the one who has the most physical prowess, while 
+Casandra hunts her prey using magic.
+
+=== Barl
+
+Barl was the old master of Noslom. In the time of the war 20 years ago, he was 
+a very famous Sage of about 40 years old who traveled the land preaching peace 
+and understanding as well as researching history and magic. He disappeared 20
+years ago when he and Noslom met Binderak. Binderak used the staff and it 
+went haywire, summoning an uncontrolled gang of monsters. Barl fought
+those monsters and is said to have been killed while defeating them.
+
+In reality Barl is still alive and is using his disappearance as a cover to investigate the truth behind the Dark Lord and the Staff. In 20 years there is much he has found out, and he knows something of the link between Malkaron 
+and Mallow.
+
+Barl is also looking into ways to get the staff back from Binderak and seal it away, but since Barl is forced to work from the shadows, he hasn't been very successful in this endeavor.
+
+=== Largon
+
+Largon is the master of Corin, and the last master of the Rune Knights.
+The Rune Knights are a secret organization that has as goal to protect and
+help the people of Anistal.
+
+Only they know the secret of engraving the power of the elements into weapons.
+The Rune knights wield this power to fight evil, or at least what they percieve 
+as such, all whilst staying in the shadows.
+
+Since the last war, the amount of rune knights has dwindled, and now only
+Largon and Corin seem to remain.
+
+
+=== Cid 
+
+Cid is a wise monk of about 50 years old. Cid sends Ajathar out
+into the world so he can learn from it. XXX please complete
+
+
+=== Derig
+
+Derig is the old man found in the Grotto. He is the grandfather of Jen,
+in Ekla, and a friend of Tsorin in Andra.
+
+You can find Derig either by embarking on Ekla's SideQuest (to get rid of the
+monsters in the UndergroundTunnel), or by speaking to Tsorin who asks you to
+give him an encrypted message.
+
+=== Dungar
+
+Dungar is a retired thief, who lives on a lovely estate with his wife Emma.
+He used to be a high ranking member of the Embers Guild, but he left because it
+was becoming too violent.
+
+=== Emma
+
+Emma is Dungar's wife; she lives on DungarsEstate
+
+=== Gelik
+
+Gelik is an old man who has lived in, or near, Maldea all his life. He's picked
+up a few snippets of information from here and there, maybe from his old 
+buddies who frequent the Seaside Inn. In general, he's only too happy to pass 
+on what he knows.
+
+=== Rufus
+
+Rufus is the red-bearded miner who you will find living in a hut on 
+Karnoks Pass. He has explored the OpalCave and lived to tell the tale!
+
+=== Temmins Master
+
+Only appears in the intro, giving Temmin his task.
+
+XXX give him a name, please
+
+
+=== Trezin
+
+Trezin is a Estate Agent, who lives in Maldea. He's a bit of a creep, but
+basically harmless.
+
+=== Tsorin
+
+Tsorin is the Captain of the Guard in Andra. He's an expert on Goblins and will
+help your quest.
+
+He will not allow anyone through the Mountain Fort as the Oracle Statue had
+been stolen from the Denorian Village. This has caused all sorts of upheaval 
+in the land, and so is unsafe for any adventurer to travel there.
+
+If you can prove that you have authorization to pass through the Fort, Tsorin 
+will let you pass. He will give you an encrypted message which you must deliver 
+to Derig. The message's contents are encrypted, so you cannot read what is said.
+
+Once Derig reads the note, he will respond and Tsorin will let you continue 
+on your journey.
+
+=== Mallow
+
+Mallow is a is a mysterious woman who is related to Nostik. About 21 years ago,
+when she was only 23, before Malkaron rose to power, she and her family were on
+the run for a fierce regional conflict. Her family's cart got caught in the
+crossfire and was set ablaze. Her husband was killed instantly. Mallow escaped
+with her daughter but the child died from smoke inhalation. She had no time to
+mourn her family, so intense was the battle, and she had to run for her life.
+From that moment she took a solemn oath and swore to do whatever it would take 
+to bring peace to Anistal.
+
+After she escaped, she went to look for ways to bring het oath into reality.
+From those days she wore nothing but black clothes in sign of her perpetual
+mourning. However, she was but a woman alone with no followers. She investigated
+the possibilities until she heard the legend of the Staff. Determined, she went
+to look for the Archwizard Nostik to try and make him reveal the location of
+his half of the Staff by any means possible. She pretended to want to be his
+student of magic.
+
+Nostik at first protested that she should study with
+the the Archwizardress Chayin. Mallow insisted and Nostik caved, most likely
+because he also felt attracted to her. Mallow noiced Nostik attraction,
+but let time pass to quell any suspicion and to learn the details of Magic.
+After all, she would need that knowledge to use the Staff once she obtained it.
+Finally when the time was right, Mallow seduced Nostik and took the medallion
+from him which was both the key and the indication for the location of his
+half of the staff.
+
+Mallow snook out and immediately set for the place where the Staff was hidden.
+When she arrived there, she opened the door with the medallion, and took the
+Staff. But to her surprise, someone called out to her and asked her what she 
+would use the staff for. It was Nostik who had woken op son after she left and 
+who was hot on her track.
+
+Mallow explained calmly that she wanted to use the staff to bring peace to
+Anistal, and that she would kill Nostik if he opposed her. To her surprise,
+Nostik agreed with her goal and implored her to allow him to become her 
+follower. While she had her doubts about Nostik, Mallow allowed him
+to become her first lieutenant.
+
+They tried various ways of using the Staff, but they were only able to summon
+and controlling monsters, or reinforcing Opal. They also sought various ways
+ways to raise a peacekeeping army, but they were not very successful in either
+pursuit. Only Binderak and a few of his men were willing to join. Then, one day
+in town, Malory heard that before, when the monsters were common, humans would
+band together and fight each other much less often.
+
+It is then that she got the idea to use the staff's ability to summon and
+control the monsters to bring peace to Anistal. She would willingly play the 
+role of "Dark Lord" in order to unite the people against her in the clear hope that it would bing peace. And if per chance they failed, and the "dark lord" 
+was to conquer all of Anistal, then that "dark lord" would be able to enforce peace though fear of "his" hordes.
+
+Form that day, 20 years ago, Mallow and Nostik conjured a horde of monsters to 
+unite the people of Anistal against them. Mallow started to wear a full, black
+suit of armor that hid her face and figure, and started to call herself the 
+"Dark Lord"... and so the back story of KQ Renaissance began...
+
+
+
+
+
