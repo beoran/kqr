@@ -79,13 +79,480 @@ They are summoned to participate in the KQ Renaissance!
 
 
 
+== Plot Outline 
+
+This chapter describes the plot and story in large outline without going into
+the various details.
+
+=== General remarks
+
+On important point, I think, is that the choice of the main character should 
+be reinstated. The story will not be fundamentally different, but it makes 
+things a whole lot more interesting.
+
+Secondly, apart from the plot, there will be 8 Character Quests (called "side
+quests") before on the Wiki, one for each playable character. If the Character
+Quest is not for the main character, then the Character Quest allows you to add
+the character whose quest it is to the party. If the character quest of for the
+chosen party leader, then the lead  character's abilities are slightly
+improved afterwards. You can do these character quests at any time in the game.
+
+Finally, the game should have 3 different endings, a "bad", "normal"  and 
+"good" one. The bad ending which happens if you don't find out the truth about
+Nostik and his intentions. The normal ending happens if you don't find out the
+truth about Malkaron.
+
+
+=== Character Quests
+
+There will be 8 character quests, one for each playable character:
+
+==== Ajathar's Character Quest
+
+Close the Tunnel Portal between Ekla and Randen with the Rod Of Cancellation.
+
+===== Casandra's Character Quest
+
+Rescue Randen's Mayor and Nella from the Orc Camp.
+
+==== Temmin's Character Quest 
+
+Return the sacred GoblinJewel to the GoblinKing's tomb in the temple north 
+of Andra.
+
+==== Corin's Character Quest 
+
+Defeat the troll in the cave west of the Denorian Village.
+
+==== Sarina's Character Quest 
+
+Stop the monsters from gaining access to the Oracle's portal.
+
+==== Ayla's Character Quest 
+
+Loot the Ember's Guild in Sunarin.
+
+==== Sensar's Character Quest
+
+Defeat all the monsters in the Opal Dragon's cave in Karnok's Pass.
+
+==== Noslom's Character Quest
+
+Find back Barl.
 
 
 
+=== Beginning 
+
+==== Nostik's Summons
+
+The game begins when each of the 8 characters are quietly summoned to
+ReishaMountain where a man greets you and escorts you to NostiksManor.
+Then, the player can choose the main character.
+
+Arrived at the mansion, Nostik himself asks for your help. He suspects that
+the staff had been stolen and that the monsters are really just Malkaron's
+minions trying to get it back. He doesn't detail much about the wand except
+it's looks, and the fact that is has been broken in two parts.
+
+He also recommends you travel per two at most (May we drop this if we can put
+more characters in the battle? Two is a bit few nowadays. there should be
+an active back row you can swap out at any time at the very least.) Nostik
+also recommends that you close any Portals you may find along the way.
+
+Once Nostik fills you in with your quest, everyone departs quickly, so you do
+not have time to join up with them before they leave. When you leave the manor,
+you find yourself on a small continent west of a town and a small Grotto.
+and so, the adventure begins.
 
 
+=== Middle
+
+==== Ekla
+
+Ekla is a town on a small island near Nostik's Mansion, where you learn that 
+one of the portals appeared in their Underground Tunnel. A Dark Imp is blocking 
+anyone from passing through.
+
+==== Undergound Tunnel
+
+This Tunnel leads from the small island of Ekla to a larger one near
+Randen. Get past the monsters here and slay the Dark Imp.
+
+==== Randen
+
+Once you reach Randen, Ajathar's Character Quest becomes available. 
+Ajathar is Randen's entrance against the monsters from the portal in the 
+underground Tunnel. Close that portal to get him to join.
+
+In randen you learn that learn that the town's bridge has been destroyed and 
+that the Mayor and his guards have disappeared as well. Your objective is to 
+get the bridge rebuilt so you can cross.
+
+Casandra's Character Quest becomes available once you hear of the mayor going
+missing. You can go to the Orc Camp where Casandra has gone to rescue Nell, 
+her sister, who was escorting the mayor of Randen. You will find that (if she 
+is not the party leader) she was captured as well.
+
+When you leave Randen, you find yourself on a larger continent. To the west is
+the burned-out bridge, Brayden Bridge, and to the south is the Orc Camp.
+
+==== Brayden Bridge
+
+Repairmen are working on the bridge now, and when you try to leave, a monster
+attacks the workers which you must defeat. Once it is defeated, you are told 
+that the work on the bridge can continue and it will be completed by the 
+following morning. Return to Randen and rest at the inn so it can be repaired.
+
+Once the bridge is complete, you can cross the river. There, you will find a 
+fort, a city named Andra, and a Temple.
+
+==== MountainFort
+
+You will pass the fort at first, since the guards won't allow you go through
+without authorization.
 
 
+==== Andra
+
+The town north of the fort is Andra. Tsorin is here who is the only one who can
+give authorization to get through the fort. You also learn that a Monster Portal
+has appeared in their Temple to the north as well.
+
+Here your objective is to get Tsorin to let you pass by returning with a note 
+from Derig.
+
+==== Temple 
+
+Once you can reach the Temple, Temmin's Character Quest becomes available.
+
+
+==== Andra Fort
+
+Once you get authorization from Tsorin, you can pass through the fort.
+To the south you will find a village named the Denorian Village, and two
+caves (one to the north of the village, and one to the west).
+
+==== Denorian Village
+
+The village is the home of the Denorians, a group of "friendly goblins" who had
+their prized OracleStatue stolen. A troll was last seen taking it into the cave
+to the west. 
+
+Objective: Learn why the troll took the statue in the first place.
+
+Corin's Character Quest becomes available from this point.
+
+Their statue had been broken in half by Malkaron's men, who took one of the
+halves to the Oracle's TravelPoint. XXX this may change later!
+
+==== Oracle's Tower
+
+To the north of the Denorian Village are the caverns which lead to the castle of
+the Oracle. She is famous for creating a transportation device between the
+caverns and Pulcannen. She tells you that the Denorians had locked the
+entrance to it when the statue was stolen but the monsters became desperate
+and have begun mining through the walls to get to it again. The Oracle asks you
+to go make sure they don't get through.
+
+From this point Sarina's Character Quest is available.
+
+If you oblige her then she will finally be willing to answer your questions
+about the Staff. She tells you that she has scryed that Binderak has stolen
+the first part of the Staff, and that the second part of the staff still
+rest safely under Chayin's the Archwizardress's care. She says that you will
+have to cross the depths of the sea to reach Binderak, so she recommends that
+you go to Pulcannen where they have equipment that allows you to breathe under
+the sea.
+
+Objective: Use the Travel Point so you can get to Pulcannen.
+
+
+==== Maldea
+
+Because of the side-effects of the statue going into the Travel Point, instead
+of being transported to Pulcannen (in the south) like you expected, you
+actually end up in Maldea (to the west).
+
+You find Gelik who is an "avid historian" who tells you that Malkaron's armies
+all used and wore Opal weapons/armour. He doesn't know whether it was because
+it's such a rare material or if there was another reason their entire army was
+reported to be outfitted with it.
+
+He knows that there are some people who have some broken pieces of the armor,
+and gives you tips on how to obtain them for yourself (usually by exchange or
+duel). You can also buy a house here where you get the spell Warp and can rest
+anytime for free. You notice that many people in this down are sick.
+
+Objective: Locate all the pieces of the Opal weapons/armour.
+
+When you leave, you find an estate to the east of town and a city of thieves 
+to the south.
+
+==== Dungars Estate
+
+You find an estate to the east of town but Dungar is not there, so you can't 
+do anything there yet.
+
+==== Sunarin the Thief Town
+
+To the south is Sunarin which is a city full of thieves. You find Dungar there 
+who explains that the thieves just stole the OpalHelmet from him. Objective:
+Defeat the thieves and obtain the Opal Helmet.
+
+From here Ayla's Character Quest becomes available.
+
+To the east of the city is a mountain pass, and to the south is a Travel Point 
+to the Coliseum as well as another city (further south).
+
+==== Coliseum
+
+You learn that you can get the OpalShield in the Coliseum, which you find south 
+of Sunarin. Trayor owns the shield, and anyone who can defeat him in battle can
+receive it as the reward.
+
+Objective: Defeat 5 combatants, and then Trayor, to obtain the Opal Shield.
+
+==== Ajantara
+
+South of the city of thieves, on the southern-most tip of the continent, is 
+Ajantara. You learn that the OpalBand will be there. When you get into the town,
+you learn that the mayor's adopted daughter Breanne had been kidnapped by the 
+Shadow Walker Cult and is being held in the tower on Sharia Island. She was 
+seen wearing the band before she was kidnapped. 
+
+Objective: Rescue Breanne to obtain the Opal Band.
+
+==== Karnok's Pass
+
+When you return to Ajantara, the mayor gives you a key which can open the 
+locked doors in the pass. These doors lead to the Opal Cave where Malkaron had 
+mined all the metal for his armies' opal weapons and armour. The caves had been 
+infected with monsters, including a nasty Opal Dragon, who guards the 
+Opal Armour. Objective: Defeat the Opal Dragon and obtain the Opal Armour.
+
+From this point Sensar's Character Quest becomes available.
+
+==== Pulcannen
+
+Pulcannen is a city of high technology. You gi theer to look for a way to 
+breathe under the sea just to hear that the new invention, the Air Tank was 
+stolen by Malkaron partisans who are hiding in a cave up north. The cave is
+protected by a magical force field severely hurts anyone who is not
+wearing full opal armor.
+
+There is an Opal Smythe in Pulcannen who can mend the armor for you.
+It costs a lot, but it be will prepared expertly enough that you pierce the
+magical barrier that protects the tunnels just north of Ajantara.
+
+Objective: Have all your Opal weapons/armour mended.
+
+Upon reaching Pulcannen, Noslom's Character Quest becomes available.
+(Note from the author: Still need to find out where Barl is myself!)
+
+
+==== Cave of Malkaron's Followers
+
+In this cave, since the war ended, a few of Malkaron's fervert followers have 
+made their hideout.  They have setup a base of operations in the tunnels north 
+of Ajantara until the Staff Of Xenarum is found again. They have collected several
+magical artifacts while looking for the staff themselves. One of the followers 
+mentions an Air Tank, which lets you breathe underwater.
+
+Objective: Loot their treasure rooms and find the Air Tank.
+
+If you search well, you will also find instructions about a ferry to 
+Malkaron's island. You can go there but the ferry boat won't be there yet.
+
+(Note from the author: I left out the guards discovering you,
+because a whole army hiding cloe to a city was unrealistic. It's just a
+pocket of fervent Malkaron followers who you could probably take on if you
+wanted)
+
+==== Oracle Again
+
+When you return to the Oracle with the air tank she tells you of the Underwater
+Tunnel to the Kingdom of Esteria where Binderak is hiding. If you talk to her 
+again after that she tells you of the Door of Xenarium which holds the secret 
+path to the hidden School of Xenarum where Chayin hides her half of the staff.
+You could go visit either location.
+
+==== Underwater Tunnel
+
+The entrance to the underwater Tunnel is as a mountain tile not far from sea
+near Maldea. If you find it too soon you can't proceed because there is no way
+to enter the water. After passing through the harrowing tunnel,
+you arrive on the island known as the Kingdom Of Esteria.
+
+==== Esteria City
+
+The Kingdom of Estaria is mostly covered in dense forest. However, there is a 
+rather large city not far from the Underwater Tunnel's mouth. Estaria is a 
+rather secluded Kingdom whose citizens do not like foreigners very much. When 
+you try to address them, most of them will refuse to talk to you. Nevertheless 
+you must find out where Binderak is.
+
+==== Binderak's Cave
+
+Binderak's cave is hidden well in the forest, and only someone who
+knows where it is can pinpoint it. If you face Binderak now, the bad 
+ending ensues.
+
+==== Door of Xenarum
+
+The Door of Xenarum holds several mechanical guards that block your way, as
+well as a door that only opens if eight people stand in front of it.
+If you make it through the door you will find a warp point to a small
+location hidden in the mountains, the School Of Xenarum.
+
+==== School of Xenarum
+
+When you enter the school of xenarum, you will meet Chayin, who assures you
+the second half of the rod is safe. However, the alarm is raised. Since you
+opened the door of Xenarum, the monsters were able to follow your path, and
+they are attacking the gate. After repelling many waves of monsters,
+suddenly you realise that it might be a diversion. But it is too late, when
+you rush to the side of Chayin, she lies wounded, her medallion taken by
+Malkaron who steals the second half of the staff and leaves before you can do
+anything about it.
+
+Chayin suggests that you either give chase and go to Malkaron's island
+to retrieve the second part of the staff, or go secure the first part of the
+staff in the the Kingdom of Estaria.
+
+For the good ending you should go to Malkaron's island first.
+
+==== Ferry to Malkaron's Island
+
+This ferry moors at a tile camouflaged as a normal tile north of Ajantara.
+If you get there before the happenings in the School of Xenarum, then
+the ferry simply isn't there. after the ferry is there but the boatsman will 
+chase you unless if you wear a full opal armor. Then he will ask you 
+"All hail..." and you must reply "Malkaron!", or get into a difficult fight.
+
+==== Malkaron's Island
+
+This island used to be the base of power of Malkaron on which there are two 
+notable locations, Malkaron's Fortress and the Sheep's Nest.
+
+
+==== Malkaron's Fortress
+
+Malkaron's fortress still stands, however it was abandoned twenty years ago.
+Now that you reach the fortress, there are monsters there again, no doubt
+summoned by the second half of the staff of Xenarum.
+
+You make it to the throne room and battle a boss monster there, but find that
+there is no trace of Malkaron. However, if you enter the bedroom and look
+around, you will find and old book, Mallow's diary. It contains part of
+Mallows' story but it stops abruptly when she writes that she is going to
+become an apprentice of Nostik... 
+
+There is also a room with the paintings of Malkaron and his three Lieutenants.
+On the first you recognize Nostik and the label says as much. On the second
+painting, you see a strong looking man labeled as "Binderak". On 
+the third painting you see a redheaded woman named "Rinnee".
+
+==== Sheep's Nest
+
+The Sheep's nest is a steep climb up the mountain. There high, near the forest
+limit is a small village of rugged shepherds. In that village, a redheaded
+shepherdess lives a quiet life tending her sheep. If you went to Malkaron's 
+Fortress and saw the painting of Rinnee, you will recognize the woman as her.
+
+If you recognize her you can talk to her and she will reveal some information
+about the true intentions of Binderak and Nostik to you.
+
+
+==== Nearing the End
+
+From here on, you can go to Nostik's mansion for the normal ending.
+To get the good ending you must first scour Anistal for fragments of knowlegde 
+of the past to find out who Malkaron truly is.
+
+=== Endings
+
+==== Bad Ending
+
+The bad ending in particular happens when you go fight Binderak without
+knowledge of Nostik. In this ending the heroes defeat Binderak and get his
+Staff, and then Nostik appears in front of them. He presses them to give him
+the Staff, so he can use it against Malkaron, who is he know to be coming.
+
+With some hesitation, the heroes give the staff to Nostik, who hides it under
+his clothes.
+
+And surely Malkaron shows up, bmlasting the heroes aside with the second part
+of the staff, and demanding the first part of the staff.
+
+
+However, to the amazement of our heroes, Nostik does not fight, but swears
+allegeance to Malkaron and asks for forgiveness for his betrayal. To prove his
+loyalty he will give the first part of the staff to Malkaron without a fight.
+He pulls out a Staff from his clothes and puts it on the ground, then steps 
+back.
+
+Malkaron hesitates to judge Nostik's face, but then, convinced, steps forward
+and takes the staff. Pomptly, a net of energy encases Malkaron and shocks him.
+The second part of the staff falls on the ground. Nostik bursts out in 
+laughter and explains that it was a trapped fake staff part he placed there.
+Now he will rule Anistal supreme. He takes the second part of the Staff,
+merges it with the first, and unleashes a huge explosion that destroys 
+the whole cave, and all the player characters.
+
+the end?
+
+==== Normal Ending
+
+To hear the truth about Nostik, you must find Malkaron's third lieutenant, 
+Rinnee. This must happen before you confront Binderak. Finding 
+Rinnee will only be possible if you have all 8 characters. Then you must find
+Nostik and confront him with the facts you learned.
+
+If you are able to confront Nostik, the way to Binderak lies open, and then 
+the party will not be destroyed after confronting the latter. Malkaron will
+show up and forcefuly take the first part of the stick from the party. But when Malkaron notices Casasandra lying on the ground suddenly he turns around and leaves without a fight.
+
+Then the road opens to either the normal or the good ending.
+
+The normal ending will happen place if you next confront Malkaron without
+the required knowledge about Mallow. In the normal ending, the main character 
+can obtain the rod and uses it as they had intended. Some foreshadowing is 
+done that this may not necessarily end well for them.
+
+The End.
+
+==== Good Ending
+
+To hear the truth about Malkaron and Mallow, you need to of course know the 
+truth about Nostik first, then talk to 8 different people to hear the fragments
+of the truth about the past, namely Cid, Largon, Nella, Barl, Temmins Master,
+Chayin, Gelik and Tsorin. This will require several of the playable character's 
+start locations to be made accessible. (They could be reused for an extra 
+character quest.)
+
+Then finally talk to Rinnee again, who, seeing that the heroes already know most
+of the details, then finally decides to tell the whole truth about Malkaron.
+But Rinnee does this not to help the heroes, but to make them understand why
+she is Malkaron's loyal servant. She also warns them that if the heroes intend
+to fight Malkaron, she will stop them or die trying. Then, she warps away to
+the side of her master, who has returned to the Fortress of Malkaron.
+
+If all this has happened, the game is set up for the good ending.
+The heroes must then go to find and face Rinnee and Malkaron, and the
+good ending will come if they emerge victoriously. There is some drama
+around Mallow and Casandra, and in the end the heroes swear to maintain the
+peace on Anistal.
+
+In the good ending, the Staff of Xenarum is destroyed. The bubble around Anistal
+remains intact, but a small portal to a location near a city in Kox Quona
+outside Anistal is opened and remains stable. The people of Anistal will be
+able to travel again, but they will also have to beware that some monsters
+may enter their world ,and that they will have to band together to keep
+the peace.
+
+
+THE END. THANK YOU FOR PLAYING!
 
 
 
