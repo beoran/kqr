@@ -17,11 +17,13 @@ his anger and rage.
 Because of his physical strength, the people who know him like him as an 
 unskilled worker or as a monster hunter. But they wouldn't want to ask him for 
 any intellectual job more complicated than multiplying two numbers! No one 
-in his village is able to beat him in a fist fight though, so he does have the feeling that he's the best fighter around, if not in all of Anistal. He tends
+in his village is able to beat him in a fist fight though, so he does have the 
+feeling that he's the best fighter around, if not in all of Anistal. He tends
 to be a bit cocky, but at the same time he lacks knowledge of the world.
 
 Since he isn' t very wealthy, he loves the idea of fame and fortune, but tends
-to spend any money he gets unwisely. For example, he has 2 chimneys and 6 beds because he want to have a big family later, but the house is way too small
+to spend any money he gets unwisely. For example, he has 2 chimneys and 6 beds 
+because he want to have a big family later, but the house is way too small
 for such a family, never mind that he doesn't even have a girlfriend!
 
 Primary ability - Rage - this gives Sensar a damage/hit% boost, but costs about 
@@ -45,7 +47,6 @@ hunters when she was only 3 or 4 years old. Her original family seems to have
 been killed in the war 20 years ago. Since the war, many more monsters are on a
 rampage, so business has been steady, but the job is not without dangers.
 
-
 Nella is her older adoptive sister. Of the two sisters, Nella is the one who has
 the most physical prowess, while Casandra hunts her prey using magic. Casandra
 has been fascinated by magic, especially fire magic, since she was a child. She 
@@ -55,7 +56,8 @@ is hampered by her bad lungs which have suffered smoke damage, most likely
 when she was a child, during the war.
 
 Casandra and Nella have worked for officials from several cities and villages.
-But normally those officials request that they work under a non disclosure agreement. The officials like to take credit for themselves for getting rid
+But normally those officials request that they work under a non disclosure
+agreement. The officials like to take credit for themselves for getting rid
 of the monsters but in reality they pay hunters to do the dirty jobs.
 
 Because of her natural talent with magic, but also because of the lack of
@@ -84,13 +86,15 @@ she is a thief for the thrill of stealing. She's a fun loving girl, a bit
 tomboyish, with quick fingers and a charming personality. Sometimes she
 also doubles as an entertainer or a prestidigitator. She doesn't get found out
 stealing very often, but likes to hop from town to town since she gets bored
-soon. she has a sharp attention to her surroundings. however on her bad side, you'll see that sometimes she can be a bit superficial and impatient.
+soon. she has a sharp attention to her surroundings. However, on her bad side,
+you'll see that sometimes she can be a bit superficial and impatient.
 
 Motivation: Ayla wants to find the staff, get money for it from Nostik,
 steal it from him, and then sell it for some more cold, hard cash. And maybe
 steal it again. As long as she has fun with the ride.
 
-Primary ability - Steal - Ayla can steal items from her enemies... as long as there is something to steal. Steal can be used repeatedly.
+Primary ability - Steal - Ayla can steal items from her enemies... as long as
+there is something to steal. Steal can be used repeatedly.
 
 Secondary ability - If alone, Ayla can only be surprised by the enemy roughly 1% 
 of the time, and she has a 33% chance to surprise them. If with a partner, the
@@ -111,9 +115,12 @@ Motivation: Tenmin wants to fulfill his mission to his master. He will make sure
 that the staff is safe to give to Nostik, and that Nostik is not going to use 
 the staff for a bad reason.
 
-Primary ability - Cover - using this Temmin does the same as if he were using "Defend". However, Temmin also blocks any attacks made against his partner. Cover can be used repeatedly as long as Temmin has a partner.
+Primary ability - Cover - using this Temmin does the same as if he were using 
+"Defend". However, Temmin also blocks any attacks made against his partner. 
+Cover can be used repeatedly as long as Temmin has a partner.
 
-Secondary ability - Temmin suffers no spirit penalties for any equipment that he uses.
+Secondary ability - Temmin suffers no spirit penalties for any equipment that 
+he uses.
 
 === Noslom
 
@@ -131,10 +138,11 @@ Noslom regrets loosing his old master and has been looking for him ever since.
 although everyone says that Barl is dead, Noslom believes Barl is still alive
 since no trace of him was found.
 
-Goals: To find out if the staff is the same staff as the one of 20 years ago, 
+Goals: To find out if the staff is the same staff as the one of 20 years ago,
 and hopefully find out about the whereabouts of Barl.
 
-Primary ability - Sense - Noslom can view some attributes of the enemies that he is fighting. He can see hp, mp and elemental resistance using this ability. 
+Primary ability - Sense - Noslom can view some attributes of the enemies that he 
+is fighting. He can see hp, mp and elemental resistance using this ability.
 Sense can be used repeatedly.
 
 Secondary ability - Noslom's rate of MP consumption is 60% that of everyone 
@@ -257,7 +265,8 @@ Nostik was not really enslaved by Malkaron. Rather, he joined Malkaron
 willingly as one of his tree lieutenants because he felt sympathy for
 Malkaron's goals and Malkaron.
 
-When he felt Malkaron was going out of line with the staff, he decided to steal it, however, in the deepest of his heart, it was the desire for power that 
+When he felt Malkaron was going out of line with the staff, he decided to steal
+it, however, in the deepest of his heart, it was the desire for power that 
 drove him. He wanted to become the leader of the hordes and conquer 
 However, he is still fearful of Malkaron's revenge at his betrayal, that is why
 he is hiding away.
@@ -293,7 +302,8 @@ in the hope it would make him all powerful. However, since he was a pure
 warrior who knew little about magic, he was unable to use the staff at all.
 So he ran away and hid in the Kingdom Of Esteria.
 
-He has trying to figure out ever since how to use the staff. But he has difficulties understanding magic, and he is reluctant to aks anyone for help,
+He has trying to figure out ever since how to use the staff. But he has 
+difficulties understanding magic, and he is reluctant to ask anyone for help,
 so his investigations of the Staff have been largely unfruitful. But the staff
 has slowed down his aging, and made him much more powerful physically.
 Now, even Malkaron would not dare attack him directly.
@@ -307,7 +317,10 @@ would seek out the half of the Staff left in her care.
 === Nella 
 
 Nella is a professional hunter. Nella hails from a family of professional 
-hunters, who clean out monster nests when they are dangerous or bothersome to humans, or escort officials through dangerous areas. Since the war 20 years ago, many more monsters are on a rampage, so business has been steady, but the job is not without dangers.
+hunters, who clean out monster nests when they are dangerous or bothersome to 
+humans, or escort officials through dangerous areas. Since the war 20 years ago, 
+many more monsters are on a rampage, so business has been steady, but the job is 
+not without dangers.
 
 Nella is Casandra's older sister. She is 37 years old. About 21 years ago,
 Nella found Casandra when she was out hunting.  Cassandra was but a young child
@@ -329,10 +342,14 @@ years ago when he and Noslom met Binderak. Binderak used the staff and it
 went haywire, summoning an uncontrolled gang of monsters. Barl fought
 those monsters and is said to have been killed while defeating them.
 
-In reality Barl is still alive and is using his disappearance as a cover to investigate the truth behind the Dark Lord and the Staff. In 20 years there is much he has found out, and he knows something of the link between Malkaron 
+In reality Barl is still alive and is using his disappearance as a cover to 
+investigate the truth behind the Dark Lord and the Staff. In 20 years there is 
+much he has found out, and he knows something of the link between Malkaron 
 and Mallow.
 
-Barl is also looking into ways to get the staff back from Binderak and seal it away, but since Barl is forced to work from the shadows, he hasn't been very successful in this endeavor.
+Barl is also looking into ways to get the staff back from Binderak and seal it 
+away, but since Barl is forced to work from the shadows, he hasn't been very 
+successful in this endeavor.
 
 === Largon
 
@@ -462,8 +479,10 @@ band together and fight each other much less often.
 
 It is then that she got the idea to use the staff's ability to summon and
 control the monsters to bring peace to Anistal. She would willingly play the 
-role of "Dark Lord" in order to unite the people against her in the clear hope that it would bing peace. And if per chance they failed, and the "dark lord" 
-was to conquer all of Anistal, then that "dark lord" would be able to enforce peace though fear of "his" hordes.
+role of "Dark Lord" in order to unite the people against her in the clear hope 
+that it would bing peace. And if per chance they failed, and the "dark lord" 
+was to conquer all of Anistal, then that "dark lord" would be able to enforce 
+peace though fear of "his" hordes.
 
 Form that day, 20 years ago, Mallow and Nostik conjured a horde of monsters to 
 unite the people of Anistal against them. Mallow started to wear a full, black
