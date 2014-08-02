@@ -49,12 +49,14 @@ for the rest of the battle. He will keep on attacking his enemies until they
 are defeated, or until he is knocked out or 7 turns pass. Rage can be used only
 once per battle.
 
-==== Secondary Ability 
+==== Secondary Abilities
+
+. Hard Punch
+Sensar is skillful with unarmed combat and does level% extra damage when
+wielding no weapons.
 
 . Beef Cake
-Sensar is skillful with unarmed combat and does level% extra damage when
-wielding no weapons. Sensar is one healthy man, so he resists poison and
-paralysis 50% + level/4.
+Sensar is one healthy man, so he resists poison and paralysis 50% + level/4.
 
 === Casandra
 
@@ -118,12 +120,15 @@ however, the spells costs 150% the normal MP amount. Not all spells benefit
 from boosted Aura/Spirit. Boost can be used once per battle and lasts until
 Casandra is knocked out or for 7 turns.
 
-==== Secondary Ability
+==== Secondary Abilities
+
+. Scorching Magic
+Casandra is skillful with Fire and non-elemental magic. She does level% 
+extra damage with them.
 
 . Tough Witch
-Casandra is skillful with Fire and non-elemental magic. She does 
-leve% extra damage with them. Casandra's skills with magic also grant her 
-50% + level/4 resistance to paralysis and sleep.
+Casandra's skills with magic also grant her 50% + level/4 resistance
+to paralysis and sleep.
 
 === Ayla
 
@@ -163,11 +168,14 @@ Or not.
 Ayla can steal items from her enemies... as long as there is something to 
 steal. Steal can be used repeatedly.
 
-==== Secondary ability 
+==== Secondary Abilities
+
+. Dagger Dance
+Ayla is skillful with daggers and short swords and does level% extra damage
+with them.
 
 . Sneaky Lass
-Casandra is skillful with daggers and short swords and does level% extra damage
-with them. If alone, Ayla can only be surprised by the enemy roughly 1% of the
+If alone, Ayla can only be surprised by the enemy roughly 1% of the
 time, and she has a 33% chance to surprise them. If with a partner, the heroes
 are only surprised 5% of the time, and have a 20% chance of surprising
 the enemies. The normal rates are 10% for both being surprised and causing
@@ -215,10 +223,12 @@ danger. when Cover is active, Tenmin will take any blow that would knock out
 one of his comrades, even if it knock out himself. Furthermore, Cover reduces
 damage done to Temmin to 75% of normal damage. Cover can be used once every battle. Covers stays active until Temmin is knocked out or until 7 turns pass.
 
-== Secondary Ability
+== Secondary Abilities
+
+. Just Sword
+Temmin is skilfull with a sword and does level% extra damage with one.
 
 . Honor Freak
-Temmin is skilfull with a sword and does level% extra damage with one.
 Temmin suffers no spirit penalties for any equipment that he uses.
 
 === Noslom
@@ -263,19 +273,21 @@ not all is gloom and doom and gradually return to his former cheerful self
 from before the war. Or not.
 
 
-==== Primary Ability 
+==== Primary Ability
 
 . Sense
 Noslom can view some attributes of the enemies that he 
 is fighting. He can see hp, mp and elemental resistance using this ability.
 Sense can be used repeatedly.
 
-=== Secondary Ability
+=== Secondary Abilities
+
+. Big Wand
+Noslom is skillful with wands, rods and staves and does level% extra damage
+when wielding them.
 
 . Wise Guy
-Noslom is skillful with wands, rods and staves and deos level% extra damage
-when wielding them. Noslom's rate of MP consumption is 5% + level%/4 less
-than of everyone else.
+Noslom's rate of MP consumption is 5% + level%/4 less than of everyone else.
 
 
 === Ajathar
@@ -320,10 +332,12 @@ Prayer has one this has one of two effects. If any of the enemies are undead,
 Prayer will attempt to destroy them. If there are no undead present, Prayer
 will cure the party members a bit.
 
-==== Secondary Ability
+==== Secondary Abilities
+
+. Heal Her
+Ajathar is skillful with healing magic, so for him it has level% extra effect.
 
 . Holy Roller
-Ajathar is skillful with healing magic, so for him it has level% extra effect.
 Any attack by a weapon used by Ajathar gains the elemental power of "White",
 unless it already has a different elemental type.
 
@@ -375,13 +389,13 @@ elements and make his weapon attack with the infused element, unless if
 it already had an element. Rune can be used once per battle and lasts until
 Corin is knocked out or 7 turns pass.
 
-==== Secondary Ability 
+==== Secondary Abilities
+
+. In His Element
+Corin is skillful with any elemental magic and does level% extra damage with it.
 
 . Rune Addict
-Corin is skillful with any elemental magic and does level% extra damage 
-with it. Furthermore Corin's resistance versus Earth, Fire, Air, and Water 
-rises to 5% + level/4.
-
+Corin's resistance versus Earth, Fire, Air, and Water rises to 5% + level/4.
 
 === Sarina
 
@@ -431,12 +445,15 @@ Sarina, and critical hits are not possible. Sweep can be used as long as there
 is more than one target to attack. As well, Sweep is only possible with 
 bladed weapons (axe, sword, and dagger).
 
-== Secondary Ability
+== Secondary Abilities
 
 . Ax Crazy
 Sarina is especially skillful with an ax and does level% extra damage
-when wielding one. Furthermore, she is used walking out in the cold of
-winter or heat of summer, so she resists Fire and Ice element 5% + level%.
+when wielding one.
+
+. Outback Lass
+Sarina is used walking out in the cold of winter or heat of summer, so she 
+resists Fire and Ice element 5% + level%.
 
 == Non-player characters
 
