@@ -1,0 +1,201 @@
+=KQ Renaissance Locations
+:author: Beoran
+
+
+
+== Introduction
+
+This document lists and details all relevant locations in the KQ game, grouped 
+per island, and more or less in order of appearance in the game.
+
+== General Geography
+
+=== Kox Quona
+
+Kox Quona is the planet on which the story of KQ takes place. It is a world
+of monsters and magic.
+
+=== Anistal
+
+Anistal are the blessed islands that exist in a magical bubble, separated 
+from the rest of Kox Quona.
+
+
+== Ekla Island
+
+Ekla Island is the island where the story of KQ begins. It is home to 
+Nostik's mansion, Ekla, and the Underground Tunnel.
+
+=== Nostik's Mansion
+
+This mansion isn' t very far from Ekla. Here Nostik is hiding out.
+
+=== Ekla
+
+Ekla is the only town on Ekla's island near Nostik's Mansion.
+
+=== Undergound Tunnel
+
+This Tunnel leads from the Ekla's island to Randen on the Great Esham Island.
+
+
+== Esham
+
+The Great Esham Island, or just Esham for short is one of the largest islands
+on the west side of Anistal. It is home to most of the important cities and 
+towns of Anistal.
+
+=== Randen
+
+Randen is a town in the north of Esham. It is somewhat isolated as the only way 
+to reach it from the rest of Esham is by crossing the Brayden river over 
+the Brayden bridge.
+
+=== Orc Camp
+
+Aboriginal Orcs of Esham have set up their camp south of Randen.
+
+=== Brayden Bridge
+
+The bridge over the Brayden river, east of Randen, connects Randen to the
+rest of Esham.
+
+=== Mountain Fort
+
+The Mountain Fort, east of the Brayden river protects the Mountain Pass,
+the only feasible way from the north of Esham to the rest of that Great 
+Island.
+
+=== Andra
+
+Andra is a town north of the Mountain Fort.
+
+=== Northern Temple
+
+The Northern Temple is a temple to the northeast of Andra.
+
+=== Denorian Village
+
+The Denorian village is a village of friendly aboriginal goblins, south of 
+the Mountain Pass.
+
+=== Oracle's Tower
+
+Oracle's Tower is where the famous Oracle and her followers live.
+
+=== Maldea 
+
+Maldea is a city in the north of Esham, south of Randen. Between Randen and 
+Maldea an impassable mountain range blocks the way.
+
+=== Dungars Estate
+
+Dungar's Estate is an estate to the east of Maldea
+
+=== Sunarin the Thief Town
+
+Sunarin is a city to the south of Maldea, famous for the Ember Guild of
+thieves. To keep the thieves out, the wealthy people of the city have built a
+city within the city in which no one but themselves and their servants are
+allowed. The Royal Palace is even more well guarded.
+
+=== Coliseum
+
+The Coliseum holds daily fights between warriors from all over Anistal.
+It is south of Sunarin.
+
+=== Ajantara
+
+Ajantara is a city to the south of the city of thieves, on the southern-most
+tip of Esham.
+
+=== Karnok's Pass
+
+Karnok's pass is a mountain pass leading from the south near Ajantara to the
+northeast, near Pulcannen. It forks to the northwest to the Opal Caves.
+
+=== Opal Caves
+
+Caves where Malkaron had mined all the mineral for his armies' opal weapons 
+and armour. The caves have been infected with monsters, including a nasty 
+Opal Dragon.
+
+=== Pulcannen
+
+Pulcannen is a city of high technology northeast of Karnok's Pass.
+
+=== Pulcannen Cave
+
+In this cave, since the war ended, a few of Malkaron's fervent followers have
+made their hideout.  They have setup a base of operations in the tunnels north
+of Ajantara, to watch over the the Opal Caves, until the Staff Of Xenarum is 
+found again.
+
+=== Underwater Tunnel
+
+The entrance to the Underwater Tunnel is as a mountain tile not far from sea
+near Maldea. It leads east to the Kingdom of Esteria. It can only be crossed 
+by someone able to breathe under water.
+
+=== Door of Xenarum
+
+The Door of Xenarum is hidden in the mountains far north of Pulcannen.
+it is filled with traps. Legend says that only eight friends with a strong 
+friendship can open this door.
+
+=== School of Xenarum
+
+The School of Xenarum is hidden within the mountains in the center of Esham.
+It can only be reached though the Door of Xenarum.
+
+
+== Sharia Island
+
+Sharia Island is a small uninhabited island not far out to the west and
+the south from Esham. It is a dreaded place, since according to legend, a
+horrible monster named the "Avatar" used to live there in the days
+before Anistal was enveloped in a bubble. It is rumored that recently cultists
+have built dark temple here.
+
+=== Sharia Temple
+
+A dark temple built by cultists who would like to resurrect the "Avatar",
+a terrible beast from the past, by cloning it's DNA and inserting magical 
+controls in it's brain.
+
+== Esteria Island
+
+Esteria Island is a medium sized island to the west of Esham. The island
+is covered mostly in dense forests. It is home to the reclusive Kingdom 
+of Esteria which consists of Esteria City only.
+
+=== Esteria City
+
+Esteria City is a large city not far from the Underwater Tunnel's mouth.
+Esteria is a secluded Kingdom whose citizens do not like foreigners very much.
+They also want no contact with the rest of Anistal, so they do not allow
+foreign ships to land on Esteria.
+
+=== Binderak's Cave
+
+Binderak's cave is hidden well in the forest on Esteria Island.
+
+
+== Malkaron's Island
+
+This island to the west of Esham used to be the base of power of Malkaron 
+on which there are two notable locations, Malkaron's Fortress and the 
+Sheep's Nest.
+
+=== Malkaron's Fortress
+
+Malkaron's fortress still stands, however it was abandoned twenty years ago.
+
+=== Sheep's Nest
+
+The Sheep's Nest is a steep climb up the mountain. There high, near the forest
+limit is a small village of rugged shepherds.
+
+
+
+
