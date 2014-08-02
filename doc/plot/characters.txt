@@ -6,239 +6,437 @@
 
 === Sensar
 
-Sensar is a 19 year old blonde man who's strong point is his brawn rather than 
-his brains. From his early teenage years on he had no more family and grew up
-living alone in a small house. this unfortunately meant that while he can read, 
-he did not get much in the way of an education. And while he is quite friendly
-when you rub him the right way, he is also rather unrefined and impatient. 
-When provoked he shows his worst side, and has great difficulty in managing 
-his anger and rage.
+Sensar is a 19 year old blond man with green eyes and a square, muscular face.
 
-Because of his physical strength, the people who know him like him as an 
-unskilled worker or as a monster hunter. But they wouldn't want to ask him for 
-any intellectual job more complicated than multiplying two numbers! No one 
-in his village is able to beat him in a fist fight though, so he does have the 
+Sensar's strong point is his brawn rather than his brains. From his early
+teenage years on he had no more family and grew up living alone in a small
+house. Unfortunately this meant that while he can read, he did not get much
+in the way of an education. And while he is quite friendly when you rub him the
+right way, he is also rather unrefined and impatient. When provoked he shows
+his worst side, and has great difficulty in managing his anger and rage.
+
+Sensar likes to wear red clothes since he thinks such an energetic color is
+"cool".
+
+Because of his physical strength, the people who know him like him as an
+unskilled worker or as a monster hunter. But they wouldn't want to ask him for
+any intellectual job more complicated than multiplying two numbers! No one
+in his village is able to beat him in a fist fight though, so he does have the
 feeling that he's the best fighter around, if not in all of Anistal. He tends
 to be a bit cocky, but at the same time he lacks knowledge of the world.
 
-Since he isn' t very wealthy, he loves the idea of fame and fortune, but tends
-to spend any money he gets unwisely. For example, he has 2 chimneys and 6 beds 
+Since he isn't very wealthy, he loves the idea of fame and fortune, but tends
+to spend any money he gets unwisely. For example, he has 2 chimneys and 6 beds
 because he want to have a big family later, but the house is way too small
 for such a family, never mind that he doesn't even have a girlfriend!
 
-Primary ability - Rage - this gives Sensar a damage/hit% boost, but costs about 
-10% of his hp. As well, if the original target of Sensar's Rage perishes, then
-he also attacks the next person as well. Rage can be used as long as Sensar has
-enough hp.
+==== Motivation
 
-Secondary ability - increased chance to hit critically.
+Sensar's main motivation is fame and fortune, however, in his current state, 
+those may be worse for him than he suspects!
 
-Motivation: Fame and fortune.
+==== Growth
 
-Growth: During the story Sensar can learn that the world is a big place indeed,
+During the story Sensar can learn that the world is a big place indeed,
 that there are many things to learn, that it's great to be strong, but strength
-needs wisdom to be applied properly, and to manage his anger. Or not. :p
+needs wisdom to be applied properly, and to manage his anger. Or not.
 
+==== Primary Ability
+
+. Rage
+Rage this gives Sensar a damage/hit% boost, but it makes him uncontrollable
+for the rest of the battle. He will keep on attacking his enemies until they
+are defeated, or until he is knocked out or 7 turns pass. Rage can be used only
+once per battle.
+
+==== Secondary Ability 
+
+. Beef Cake
+Sensar is skillful with unarmed combat and does level% extra damage when
+wielding no weapons. Sensar is one healthy man, so he resists poison and
+paralysis 50% + level/4.
 
 === Casandra
 
-Casandra is old huntress of about 24 years old. She was adopted by a family of
-hunters when she was only 3 or 4 years old. Her original family seems to have
-been killed in the war 20 years ago. Since the war, many more monsters are on a
-rampage, so business has been steady, but the job is not without dangers.
+Casandra is old huntress of about 24 years old. She has long brown hair,
+brown eyes, and and a rather sharp looking face.
 
-Nella is her older adoptive sister. Of the two sisters, Nella is the one who has
-the most physical prowess, while Casandra hunts her prey using magic. Casandra
-has been fascinated by magic, especially fire magic, since she was a child. She 
-turned out to be a natural talent, and buy the time she was 12, she was 
-scorching monsters here and there. Physically she is not so strong because she 
-is hampered by her bad lungs which have suffered smoke damage, most likely
-when she was a child, during the war.
+Casandra was adopted by a family of hunters when she was only 3 or 4 years
+old. Her original family seems to have been killed in the war 20 years ago.
+Since the war, many more monsters are on a rampage, so business has been
+steady, but the job is not without dangers.
 
-Casandra and Nella have worked for officials from several cities and villages.
-But normally those officials request that they work under a non disclosure
-agreement. The officials like to take credit for themselves for getting rid
-of the monsters but in reality they pay hunters to do the dirty jobs.
+Casandra likes to wear green clothes to be better camouflaged when hunting
+in the forest.
+
+Nella is Casandra's older adoptive sister. Of the two sisters, Nella is the
+one who has the most physical prowess, while Casandra hunts her prey using
+magic. Casandra has been fascinated by magic, especially fire magic,
+since she was a child. She turned out to be a natural talent, and by the time
+she was 12, she was scorching monsters here and there.
+
+Physically she is not so strong because she is hampered by her bad lungs which
+have suffered smoke damage when she was a child, most likely during the war.
+Sometimes, especially in smoke filled or dusty environments she will burst out
+in coughs. If Casandra finds anyone smoking near her, her normal reaction is to
+cast a spell to set the pipe alight so it burn it up immediately, to the dismay
+of the smoker.
+
+Casandra and Nella have worked for officials and mayors from several cities
+and villages. But normally those officials request that they work under a non
+disclosure agreement. The officials like to take credit for themselves for
+getting rid of the monsters but in reality they pay hunters to do the dirty
+jobs.
 
 Because of her natural talent with magic, but also because of the lack of
-recognition for her and her family, Casandra has grown yup slightly arrogant,
+recognition for her and her family, Casandra has grown up slightly arrogant,
 stuck up, hung up on details, and unpleasant to others. Nevertheless, when you
 get on her good side, she will show that she is a clever person without bad
 intentions, who wants to enjoy life. A person who is in essence exasperated at
 the idiocy of some of her fellow humans, but not above admitting that she is not
-perfect herself. A person who expects more from others, but who is also always looking to better herself.
+perfect herself. A person who expects more from others, but who is also always
+looking to better herself.
 
-Motivation: Get the staff for herself, use if for her own magic power and maybe
-become queen of the hill in a small village here or there. Surely she'd make a
-better mayor than the idiots she's had to work for?
+==== Motivation
 
-Primary ability - Boost - this ability increases Casandra's Aura and Spirit by
-50% to cast a spell... however, the spells costs 150% the normal MP amount.
-Not all spells benefit from boosted Aura/Spirit. Boost can be used once per
-battle.
+Casandra's motivation is to get the staff for herself, use it to enhance 
+her own magic power and maybe become queen of the hill in a small village 
+here or there. Surely she'd make a better mayor than the idiots she's had 
+to work for?
 
-Secondary ability - Casandra is 80% resistant to paralysis and sleep.
+==== Growth
+
+During the story, Casandra can find out more about her history. All in all
+this makes her realize that perfectionism isn't always a virtue. She can learn
+to be more forgiving of others and of herself. Or not.
+
+==== Primary Ability
+
+. Boost
+This ability increases Casandra's Aura and Spirit by 50% to cast a spell
+however, the spells costs 150% the normal MP amount. Not all spells benefit
+from boosted Aura/Spirit. Boost can be used once per battle and lasts until
+Casandra is knocked out or for 7 turns.
+
+==== Secondary Ability
+
+. Tough Witch
+Casandra is skillful with Fire and non-elemental magic. She does 
+leve% extra damage with them. Casandra's skills with magic also grant her 
+50% + level/4 resistance to paralysis and sleep.
 
 === Ayla
 
-Ayla is a young lady of about 20 years old. Though she is well-to-do
-she is a thief for the thrill of stealing. She's a fun loving girl, a bit
-tomboyish, with quick fingers and a charming personality. Sometimes she
-also doubles as an entertainer or a prestidigitator. She doesn't get found out
-stealing very often, but likes to hop from town to town since she gets bored
-soon. she has a sharp attention to her surroundings. However, on her bad side,
-you'll see that sometimes she can be a bit superficial and impatient.
+Ayla is a young lady of about 20 years old. She has short black hair with
+intense blue eyes and an attractive face.
 
-Motivation: Ayla wants to find the staff, get money for it from Nostik,
-steal it from him, and then sell it for some more cold, hard cash. And maybe
-steal it again. As long as she has fun with the ride.
+Though Ayla is well-to-do, she is a thief for the thrill of stealing.
+She's a fun loving girl, a bit tomboyish, with quick fingers and a charming
+personality. Normally she hides her activities as a thief by doubling as
+an entertainer or a prestidigitator.
 
-Primary ability - Steal - Ayla can steal items from her enemies... as long as
-there is something to steal. Steal can be used repeatedly.
+Ayla likes to wear simple dark blue clothes that don't make her stand out,
+but that do emphasize her femininity.
 
-Secondary ability - If alone, Ayla can only be surprised by the enemy roughly 1% 
-of the time, and she has a 33% chance to surprise them. If with a partner, the
-heroes are only surprised 5% of the time, and have a 20% chance of surprising 
+Ayla doesn't get found out stealing very often, but likes to hop from town
+to town since she gets bored soon. She has a sharp attention to her
+surroundings. However, on her bad side, you'll see that sometimes she can be a
+bit superficial and impatient. She tends to avoid any serious problems that
+come her way.
+
+==== Motivation
+
+Ayla wants to find the staff, get money for it from Nostik, 
+steal it back from him, and then sell it for some more cold, hard cash. 
+And maybe steal it again. As long as she has fun with the ride.
+
+==== Growth
+
+During her adventure Ayla can find out that there's more to fun and games in 
+life, and that it's sometimes advisable to respect other people's properties.
+She can learn how to deal with her problems head-on, in stead of avoiding them. 
+Or not.
+
+==== Primary Ability
+
+. Steal
+Ayla can steal items from her enemies... as long as there is something to 
+steal. Steal can be used repeatedly.
+
+==== Secondary ability 
+
+. Sneaky Lass
+Casandra is skillful with daggers and short swords and does level% extra damage
+with them. If alone, Ayla can only be surprised by the enemy roughly 1% of the
+time, and she has a 33% chance to surprise them. If with a partner, the heroes
+are only surprised 5% of the time, and have a 20% chance of surprising
 the enemies. The normal rates are 10% for both being surprised and causing
 surprise.
 
 === Temmin
 
-Tenmin is a young man of about 27 years old. He is a knight in service of his 
-master, who serves the King of XXX. Tenmin is a professional 
-knight and warrior and tends to be on the serious side. He is loyal to his 
-master, but when he fights in a team, he is always looking out for his comrades.
-If you catch him in a good moment you'll see he does have a good sense of humor
-and likes to laugh and joke once in a while.
+Temmin is a young man of about 27 years old. He has short black hair and
+brown eyes.
 
-Motivation: Tenmin wants to fulfill his mission to his master. He will make sure
-that the staff is safe to give to Nostik, and that Nostik is not going to use 
-the staff for a bad reason.
+Temmin is a knight in service of his master, Semmin XIV, the King of Sunarin.
+The life in Sunarin is not kind to those who prefer justice, the King 
+and his knights keep a low profile to preserve the stalemate status quo 
+with the Ember Guild.
 
-Primary ability - Cover - using this Temmin does the same as if he were using 
-"Defend". However, Temmin also blocks any attacks made against his partner. 
-Cover can be used repeatedly as long as Temmin has a partner.
+Temmin likes to wear a simple silver colored knight's armor.
 
-Secondary ability - Temmin suffers no spirit penalties for any equipment that 
-he uses.
+Temmin is a professional knight and warrior and tends to be on the serious side.
+He is loyal to his  master, but when he fights in a team, he is always looking 
+out for his comrades. His upbringing in Sunarin has made him a bit doubtful
+of other people's intentions. He worries that no one remembers what justice 
+and honor are about and can be a bit jugdemental. If you catch him in a good
+moment you'll see he does have a good sense of humor and likes to laugh and
+joke once in a while.
+
+==== Motivation 
+
+Temmin wants to fulfill his mission to his king. He will make sure that the 
+staff is safe to give to Nostik, and that Nostik is not going to use the staff 
+for a bad reason. 
+
+==== Growth
+
+Through his travels, Temmin discoveres that not all of Anistal is like Sunarin.
+Yes, there is injustice everywhere, but there are also many people fighting for
+justice. Temmin learns that he should not be too judgemental. He learns
+to lighten up an trust other people. Or not.
+
+
+==== Primary Ability
+
+. Cover
+When Temmin activates Cover, he will protect any of his comrades who are in
+danger. when Cover is active, Tenmin will take any blow that would knock out
+one of his comrades, even if it knock out himself. Furthermore, Cover reduces
+damage done to Temmin to 75% of normal damage. Cover can be used once every battle. Covers stays active until Temmin is knocked out or until 7 turns pass.
+
+== Secondary Ability
+
+. Honor Freak
+Temmin is skilfull with a sword and does level% extra damage with one.
+Temmin suffers no spirit penalties for any equipment that he uses.
 
 === Noslom
 
-Noslom is a man of about 40 years old. He is a sage with great knowledge 
-of history and magic. But he is also skilled in combat. 
+Noslom is a man of about 40 years old. He has half-long brown hair and green
+eyes.
 
-About 20 years ago, when he was only a fledgling sage, he and his then time 
-master Barl encountered Binderak on rthe run from Malkaron. Binderak tried to 
-use the Staff when Barl recognised it and demanded that he yield it. But 
-the Staff went haywire and a gang of uncontrollable monsters appeared. 
-Binderak ran for it and Barl held the monsters at bay allowing Noslom to 
+He is a sage with great knowledge of history and magic. But he is also
+skilled in combat. He is always investigating legends of the past and stories 
+about powerful artifacts of those days, such as the Staff of Xenarum.
+
+About 20 years ago, when he was only a fledgling sage, he traveled the war-torn
+lands with his master Barl. One day, Barl and he encountered Binderak on the run
+from Malkaron. Barl recognised the staff Binderak had stolen, and demanded
+that he yield it. Binderak refused, and tried to use the Staff of Xenarum,
+but the Staff went haywire and a gang of uncontrollable monsters appeared.
+Binderak ran for it and Barl held the monsters at bay allowing Noslom to
 escape.
 
-Noslom regrets loosing his old master and has been looking for him ever since.
+Noslom regrets losing his old master and has been looking for him ever since.
 although everyone says that Barl is dead, Noslom believes Barl is still alive
 since no trace of him was found.
 
-Goals: To find out if the staff is the same staff as the one of 20 years ago,
+Noslom has a gentle disposition but his experiences in the war and in his
+many years searching for Barl have made him rather jaded. He is aware of this
+and during his better days, he tries to be more cheerful and upbeat. 
+
+He likes to wear yellow robes, since he feel they are more cheerful
+and help him feel less gloomy.
+
+==== Motivation
+
+To find out if the staff is the same staff as the one of 20 years ago,
 and hopefully find out about the whereabouts of Barl.
 
-Primary ability - Sense - Noslom can view some attributes of the enemies that he 
+==== Goal
+
+During his travel Noslom will be able to enounter a group of enthusiastic
+young people who can become his comrades and perhaps friends. From them
+he can learn to regain his former energy and joy in life. He can learn that
+not all is gloom and doom and gradually return to his former cheerful self 
+from before the war. Or not.
+
+
+==== Primary Ability 
+
+. Sense
+Noslom can view some attributes of the enemies that he 
 is fighting. He can see hp, mp and elemental resistance using this ability.
 Sense can be used repeatedly.
 
-Secondary ability - Noslom's rate of MP consumption is 60% that of everyone 
-else.
+=== Secondary Ability
+
+. Wise Guy
+Noslom is skillful with wands, rods and staves and deos level% extra damage
+when wielding them. Noslom's rate of MP consumption is 5% + level%/4 less
+than of everyone else.
+
 
 === Ajathar
 
-Ajtahar is a young man of 23 years old. He is a novice temple monk of the 
-"order". The "order" is a religious school where monks are raised, 
-taught, and trained in the ways of defending justice and righteousness.
-Ajathar was an ace student and now he has taken up the vows of a monk himself.
-While he is very bright, he is a bit of a book worm and not very interested 
-in the outside world.
+Ajathar is a young man of 23 years old. His head is shaved bald,
+but his face is gentle, and he has blue eyes.
 
-Ajathar's is somewhat naive and "green", but he's also very intelligent. He 
+Ajathar is a novice temple monk of the "Order". The "Order" is a religious
+school where monks are raised, taught, and trained in the ways of defending
+justice and righteousness. Ajathar was an ace student and now he has taken up
+the vows of a monk himself. While he is very bright, he is a bit of a book
+worm and not very interested in the outside world.
+
+Ajathar's is somewhat naive and "green", but he's also very intelligent. He
 sometimes has trouble dealing with dealing with some of the realities he
-encounters  but he always works to do what's right and defend people. 
+encounters but he always works to do what's right and defend people.
+
+Ajtahar likes to wear his light blue monk's robe. Sometimes he needs to wear
+glasses since his incessant book reading has worsened his eye sight.
 
 Ajtahar's superior, Cid, sends him out on a mission to investigate the Staff,
-ince cid feels that Ajtahar needs to get out of the books and face reality to 
+Cid feels that Ajtahar needs to get out of the books and face reality to
 truly learn what life is like.
 
-Primary motivation: Ajathar is following his mentor's orders, but he also 
-realizes that going out in the world is a great occasion for him to learn 
-something new. 
+==== Motivation
 
-Primary ability - Prayer - this has one of two effects. If any of the enemies 
-are undead, Prayer will attempt to destroy them. If there are no undead present,
-Prayer will cure the party members a bit.
+Ajathar is following his mentor's orders, but he also realizes that going out 
+in the world is a great occasion for him to learn something new.
 
-Secondary ability - Any weapon used by Ajathar gains the elemental power of
-"White" (unless it already has an elemental type).
+==== Growth
 
+Ajathar can learn from his trip that not all is like in his books, and that 
+hinding from the reality out there is not a good idea. He also learns how to 
+deal with all sorts of people, pleasant and less pleasant. He learns
+how to gain comrades and make friends, and go through hardships with them
+together. Or not.
+
+==== Primary Ability
+
+. Prayer
+Prayer has one this has one of two effects. If any of the enemies are undead,
+Prayer will attempt to destroy them. If there are no undead present, Prayer
+will cure the party members a bit.
+
+==== Secondary Ability
+
+. Holy Roller
+Ajathar is skillful with healing magic, so for him it has level% extra effect.
+Any attack by a weapon used by Ajathar gains the elemental power of "White",
+unless it already has a different elemental type.
 
 === Corin
 
-Corin is a young man of 24 years old. He is a Rune Knight. The Rune Knights 
-are a secret organization that has as goal to protect and help the people of 
-Anistal.
+Corin is a young man of 24 years old. He has red hair and bight yellow eyes,
+due to his Runic skills.
 
-Only they know the secret of engraving the power of the elements into weapons.
-The Rune knights wield this power to fight evil, or at least what they see
-as such, all whilst staying in the shadows.
+Corin is a Rune Knight. The Rune Knights are a secret organization that has as
+goal to protect and help the people of Anistal. Only the Rune Knights know the
+secret of engraving the power of the elements into weapons and into themselves.
 
-Since corin always has to get in action whenever the peopleget into problems, he 
-has the habit of seeing the worst situations, and people at their worst. This
-has made him a bit of a pessimist and he's not above cracking a cynical joke 
-once or twice. But if ou get to know him and get close to him, you'll see he's 
-a warm hearted man underneath his prickly shell.
+The Rune knights wield this power to fight evil, or at least what they see as 
+such, all whilst staying undetected in the shadows. Since the war, the number 
+of Rune knights has dwindled, and now it seems that only Corin and his master
+Largon remain.
 
-Motivation: Corin is a classic hero who believes in fighting evil. He has his 
-doubts about Nostik since unlike most the RuneKnights know that he might have 
-been involved with Malkaron.
+Corin likes to wear an orange Runic Armor, which had been the sign of Rune
+Knights of old.
 
-SpecialSkill: - Infuse - this allows Corin to cast an elemental type spell on 
-himself. The different spells give Corin resistance (and weakness) to certain 
-elements and boost other combat stats as well. Infuse can be used once per 
-battle.
+Since Corin always has to get in action whenever the people of Anistal get
+into problems, he has the habit of seeing the worst situations, and people
+at their worst. This has made him a bit of a pessimist and he's not above
+cracking a cynical joke once or twice. But if you get to know him
+and get close to him, you'll see he's a warm hearted man underneath
+his prickly shell.
 
-Secondary ability - Corin's resistance versus Earth, Fire, Air, and Water rises
-with his level.
+==== Motivation
+
+Corin is a classic hero who believes in fighting evil. He has his
+doubts about Nostik since unlike most, the Rune Knights know that he might
+have been involved with Malkaron before. Corin also wants to honor his old
+master Largon, who is now too old and too frail to fight together with him.
+
+==== Growth
+
+During his journey, Corin can learn that there is also much joy and happiness
+in Anistal and that his pessimism is not always founded. He learns to
+trust other people than his master, learns that all work and no play makes
+Corin a dull boy. He learns to have fun and relax, to drink his wine and be
+merry. Or not.
+
+==== Primary Ability
+
+. Rune
+Rune allows this allows Corin to cast an elemental type spell on himself.
+The different spells give Corin resistance (and weakness) to certain
+elements and make his weapon attack with the infused element, unless if
+it already had an element. Rune can be used once per battle and lasts until
+Corin is knocked out or 7 turns pass.
+
+==== Secondary Ability 
+
+. Rune Addict
+Corin is skillful with any elemental magic and does level% extra damage 
+with it. Furthermore Corin's resistance versus Earth, Fire, Air, and Water 
+rises to 5% + level/4.
+
 
 === Sarina
 
-Sarina is a young woman of about 26 years old. She is a lumberjack by
-profession. She comes form a large but relatively poor family, and is the
-youngest child. As such she had to fight her bothers often and a result
-she became a physically strong woman. During her work as a lumberjack
-she sometimes encounters monsters, but she's learned to deal with them swiftly 
-in order to keep on working efficiently.
+Sarina is a young woman of about 26 years old. She has long blonde hair and 
+blue eyes. Her face is a bit buff but nevertheless pretty.
 
-Sarina also has a feminine and caring side. Even though her older brothers
-should help her parents, she has allowed them to go out in the world to find
-fortune. She has taken responsibility of taken care of her parents in stead.
-Sarina was able to save up some money to allow her parents to live off for a 
-few years. But it's not going to be enough when they get older and unable
-to work themselves. 
+Sarina is a lumberjack by profession. She comes form a large but relatively 
+poor family, and is the youngest child. As such she had to fight her bothers 
+often and a result she became a physically strong woman. Not many jobs were 
+open to her, but her strength soon lead her to become a lumberjack. During her 
+work as a lumberjack she sometimes encounters monsters, but she's learned to 
+deal with them swiftly in order to keep on working efficiently.
 
-Sarina is a hard worker and helpful to others to a fault. She dreams of 
-finding a good husband and settling down, but first she want to be sure her 
-parents will be able to retire comfortably. If anything bad could be said about
-her then it's that she should stand up for herself more and not let other 
-people's desires overrule her own so much. For the rest she has a lovely 
-disposition and a kind, loving heart.
+Sarina likes to wear comfortable brown clothes on the job, but in her free
+time she wears a cute pink dress that her mother had made for her from
+scraps of salvaged cloth.
 
-Motivation: Sarina hopes to earn a comfortable pension for her parents, so she 
-can finally pursue her own dreams.
+Sarina also has a feminine and caring side. According to tradition, her older 
+brothers should help her parents. But Sarina has allowed them to go out in the
+world to find fortune. She has taken responsibility of taken care of her 
+parents in stead. Sarina was able to save up some money to allow her parents 
+to live off for a few years. But it's not going to be enough when they get 
+older and unable to work themselves.
 
-Primary ability - Sweep - attack all targets at once. Critical hits are possible
-but the screen doesn't flash. The attack is not as powerful as a single attack by
-Sarina. Sweep can be used as long as there is more than one target to attack. As
-well, Sweep is only possible with bladed weapons (axe, sword, and dagger).
+Sarina is a hard worker and helpful to others to a fault. She dreams of
+finding love with a good husband and settling down, but first she want to be
+sure her parents will be able to retire comfortably. If anything bad could be
+said about her then it's that she should stand up for herself more and not
+let other people's desires overrule her own so much. For the rest she has a
+lovely disposition and a kind, loving heart.
 
-Secondary ability - I've been wondering what to put for this, but for now I have
-given her some resistance to fire and lightning.
+==== Motivation
 
+Sarina hopes to earn a comfortable pension for her parents, so she can finally
+pursue her own dreams.
+
+==== Growth
+
+Sarina can learn during her travel that there is more to life than just helping
+others. She learns it's ok to look out for yourself, because no one can pull others out of a swamp if they are not solidly grounded themselves. Or not.
+
+=== Primary Ability 
+
+. Sweep
+Attack all targets at once. The attack is not as powerful as a single attack by
+Sarina, and critical hits are not possible. Sweep can be used as long as there 
+is more than one target to attack. As well, Sweep is only possible with 
+bladed weapons (axe, sword, and dagger).
+
+== Secondary Ability
+
+. Ax Crazy
+Sarina is especially skillful with an ax and does level% extra damage
+when wielding one. Furthermore, she is used walking out in the cold of
+winter or heat of summer, so she resists Fire and Ice element 5% + level%.
 
 == Non-player characters
 
@@ -387,11 +585,12 @@ The Rune Knights are a secret organization that has as goal to protect and
 help the people of Anistal.
 
 Only they know the secret of engraving the power of the elements into weapons.
-The Rune knights wield this power to fight evil, or at least what they percieve 
+The Rune knights wield this power to fight evil, or at least what they see
 as such, all whilst staying in the shadows.
 
-Since the last war, the amount of rune knights has dwindled, and now only
-Largon and Corin seem to remain.
+Since the last war, the amount of Rune Knights has dwindled, and now only
+Largon and Corin seem to remain. And Largon himself is too old and too frail
+now to use the Rune powers anymore, so he cannot join into the fight.
 
 
 === Cid 
@@ -422,21 +621,25 @@ Emma is Dungar's wife; she lives on DungarsEstate
 === Gelik
 
 Gelik is an old man who has lived in, or near, Maldea all his life. He's picked
-up a few snippets of information from here and there, maybe from his old 
-buddies who frequent the Seaside Inn. In general, he's only too happy to pass 
+up a few snippets of information from here and there, maybe from his old
+buddies who frequent the Seaside Inn. In general, he's only too happy to pass
 on what he knows.
 
 === Rufus
 
-Rufus is the red-bearded miner who you will find living in a hut on 
+Rufus is the red-bearded miner who you will find living in a hut on
 Karnoks Pass. He has explored the OpalCave and lived to tell the tale!
 
-=== Temmins Master
+=== Summin XIV
 
-Only appears in the intro, giving Temmin his task.
+Summin XIV is the king of Sunarin, and Temmins Master. Because Sunarin
+is a thief town, the king almost never wears his regalia but prefer plain
+clothes. He normally hides in a small house in the inner city of Sunarin.
+The Royal Palace is mainly used as a decoy or for official occasions.
 
-XXX give him a name, please
-
+In contrast to his thieving subjects, Summin XIV is a just king who worries
+about the Staff of Xenarum. He tasks his loyal knight, Temmin to
+find out who Nostik is and what his intentions are with the Staff.
 
 === Trezin
 

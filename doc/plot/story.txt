@@ -526,7 +526,7 @@ The End.
 
 To hear the truth about Malkaron and Mallow, you need to of course know the 
 truth about Nostik first, then talk to 8 different people to hear the fragments
-of the truth about the past, namely Cid, Largon, Nella, Barl, Temmins Master,
+of the truth about the past, namely Cid, Largon, Nella, Barl, Summin XIV,
 Chayin, Gelik and Tsorin. This will require several of the playable character's 
 start locations to be made accessible. (They could be reused for an extra 
 character quest.)

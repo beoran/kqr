@@ -1,0 +1,58 @@
+=KQ Renaissance Items
+:author: Beoran
+
+== Introduction
+
+This document lists and details all relevant items in the KQ game, grouped 
+in sectoions of plot items, usable items, and equipment.
+
+
+
+== Plot Items
+
+=== Staff Of Xenarum
+
+The Staff of Xenarum is a powerfuil staff and the object of the quest in KQ.
+
+The Staff was used in days long by to place Anistal in a bubble named
+"the Mantle" to separate it from the rest of the planet of Kox Quona. Since
+that time, for fear that the Mantle be undone, it has been split in two
+halves, the male half and the female half, and eachpart was hidden individually.
+Even one of the two halves has considerable power, but not enough to undo the
+Mantle.
+
+The Staff of Xenarum does not grant any new skills or abilities to it's wielder,
+but amplifies the ones he or she has, depending on their resolve and strength 
+of will. Therefore, to one without knowledge of magic or mental resolve, 
+the staff will be almost useless.
+
+Furthermore, if someone without knowledge uses the staff or any of it's halves,
+it will affect the Mantle and portals may be created that let monsters come in 
+from the seas of Kox Quona.
+
+=== The Mantle
+
+The Mantle is the bubble that separates Anistal from the rest of Kox Quona.
+It was created by the Staff of Xenarum
+
+=== Air Tank
+
+The Air Tank is a recent invention that allows people to breathe underwater.
+
+
+== Usable Items
+
+XXX: TODO
+
+== Equipment
+
+XXX: TODO
+
+
+
+
+
+
+
+
+
